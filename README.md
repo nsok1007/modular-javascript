@@ -14,7 +14,7 @@
     <a href="https://github.com/CodeWithCarrie/modular-javascript/blob/main/README.md#setup">Setup</a> &bull;
     <a href="https://github.com/CodeWithCarrie/modular-javascript/blob/main/README.md#1---classes">Classes</a> &bull;
     <a href="https://github.com/CodeWithCarrie/modular-javascript/blob/main/README.md#2---modules">Modules</a> &bull;
-    <a href="https://github.com/CodeWithCarrie/modular-javascript/blob/main/README.md#3---unit-testing">Unit Testing</a> &bull;
+    <a href="https://github.com/CodeWithCarrie/modular-javascript/blob/main/README.md#3---unit-testing">Unit Testing</a>
 </div>
 
 ---
