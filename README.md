@@ -114,14 +114,14 @@ This collection of coding exercises focuses on JavaScript, Node and NPM modules,
 
 ### 2 - Modules
 
-| Topics               | Code                                                                | Videos                               | Length |
-| -------------------- | ------------------------------------------------------------------- | ------------------------------------ | -----: |
-| CommonJS Modules     | [commonjs-modules](/tutorials/02-modules/commonjs-modules/)         | [Demo](https://youtu.be/xndm5n2I3Zo) |   5:00 |
-| ES Modules           | [es-modules](/tutorials/02-modules/es-modules/)                     | [Demo](https://youtu.be/ha5IfG_7fMg) |   6:22 |
-| Node Core Modules    | [node-core-modules](/tutorials/02-modules/node-core-modules/)       | [Demo](https://youtu.be/4_YfWCyjra4) |   8:24 |
-| NPM Modules          | [npm-modules](/tutorials/02-modules/npm-modules/)                   | [Demo](https://youtu.be/tqndIv7gDiA) |  11:15 |
-| Modules with Classes | [modules-with-classes](/tutorials/02-modules/modules-with-classes/) | _Coming soon!_                       |        |
-|                      |                                                                     | **TOTAL**                            |        |
+| Topics               | Code                                                                | Videos                               |    Length |
+| -------------------- | ------------------------------------------------------------------- | ------------------------------------ | --------: |
+| CommonJS Modules     | [commonjs-modules](/tutorials/02-modules/commonjs-modules/)         | [Demo](https://youtu.be/xndm5n2I3Zo) |      5:00 |
+| ES Modules           | [es-modules](/tutorials/02-modules/es-modules/)                     | [Demo](https://youtu.be/ha5IfG_7fMg) |      6:22 |
+| Node Core Modules    | [node-core-modules](/tutorials/02-modules/node-core-modules/)       | [Demo](https://youtu.be/4_YfWCyjra4) |      8:24 |
+| NPM Modules          | [npm-modules](/tutorials/02-modules/npm-modules/)                   | [Demo](https://youtu.be/tqndIv7gDiA) |     11:15 |
+| Modules with Classes | [modules-with-classes](/tutorials/02-modules/modules-with-classes/) | [Demo](https://youtu.be/wK2fw4cUuIs) |      7:15 |
+|                      |                                                                     | **TOTAL**                            | **38:16** |
 
 ---
 
