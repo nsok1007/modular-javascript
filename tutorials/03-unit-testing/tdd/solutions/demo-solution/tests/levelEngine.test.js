@@ -26,7 +26,7 @@ import { checkLevelUp } from "../levelEngine.js";
 describe("The checkLevelUp method", () => {
 	test("returns true if character has enough XP to level up", () => {
 		// Asserting a behavior pipeline that does not exist yet!
-		expect(checkLevelUp({ xp: 120 }, { targetXp: 100 })).toBe(true);
+		expect(checkLevelUp({ xp: 120 }, 100)).toBe(true);
 	});
 
 	// We add another facet and test it at the exact threshold for leveling up
