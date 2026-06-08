@@ -51,6 +51,10 @@ describe("Warrior Class", () => {
 
 		// 3. ASSERT
 		expect(testHero.stance).toBe("Aggressive");
+
+        // Test again for reversal
+        testHero.switchStance();
+        expect(testHero.stance).toBe("Defensive");
 	});
 });
 
