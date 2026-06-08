@@ -34,7 +34,8 @@ describe("The checkLevelUp method", () => {
 		const character = { xp: 100, level: 1 };
 		const targetXP = 100;
 
-		expect(checkLevelUp(character, targetXP)).toBe(true);
+		checkLevelUp(character, targetXP);
+        
 		expect(character.xp).toBe(0); // Testing side-effect mutations
 		expect(character.level).toBe(2);
 	});

@@ -1,9 +1,6 @@
 // We write just enough code to make that exact test block pass successfully!
 // export function checkLevelUp(character, targetXP) {
-//     if (character.xp >= targetXP) {
-//         return true;
-//     }
-//     return false;
+//     return character.xp >= targetXP;
 // }
 
 // Refactoring the application code to handle metrics transformation safely
