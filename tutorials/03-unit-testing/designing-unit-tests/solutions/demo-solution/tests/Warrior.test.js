@@ -19,7 +19,7 @@
     tests.
 */
 
-import Warrior from "../models/Warrior.js";
+import Warrior from "../Warrior.js";
 
 describe("Warrior Class", () => {
 	let testHero;

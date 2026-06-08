@@ -1,6 +1,6 @@
 /**** DESIGNING UNIT TESTS ****/
 
-import Warrior from "../models/Warrior.js";
+import Warrior from "../Warrior.js";
 
 describe("Warrior Class", () => {
 	// DEMO: Declare variable to store a warrior
