@@ -7,7 +7,7 @@ describe("Wizard Class", () => {
 
 	/*
         TODO: Implement a 'beforeEach' hook loop to reinitialize 
-        'testMage' as a fresh instance of the 'Wizard' class before every test.
+        'testWizard' as a fresh instance of the 'Wizard' class before every test.
     */
 
 	test.todo("learnSpell method saves multiple sequential spells");

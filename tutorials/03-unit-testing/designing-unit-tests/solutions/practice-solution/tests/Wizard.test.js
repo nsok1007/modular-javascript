@@ -4,14 +4,14 @@ import Wizard from "../Wizard.js";
 
 describe("Wizard class", () => {
 	// Declare (but do not instantiate) a variable to store a wizard
-	let testMage;
+	let testWizard;
 
 	/*
         Implement a 'beforeEach' hook loop to reinitialize 
         'testMage' as a fresh instance of the 'Wizard' class before every test.
     */
 	beforeEach(() => {
-		testMage = new Wizard("Merlin");
+		testWizard = new Wizard("Merlin");
 	});
 
 	test("learnSpell method saves multiple sequential spells", () => {
@@ -20,12 +20,12 @@ describe("Wizard class", () => {
 		const spellB = "Lightning Bolt";
 
 		// 2. ACT - Call the .learnSpell method twice (one for each spell)
-		testMage.learnSpell(spellA);
-		testMage.learnSpell(spellB);
+		testWizard.learnSpell(spellA);
+		testWizard.learnSpell(spellB);
 
 		// 3. ASSERT - Write an assertion that does a deep equality check of the spells array
 		// and a second assertion that checks its length
-		expect(testMage.spells).toEqual(["Teleport", "Lightning Bolt"]);
-		expect(testMage.spells.length).toBe(2);
+		expect(testWizard.spells).toEqual(["Teleport", "Lightning Bolt"]);
+		expect(testWizard.spells.length).toBe(2);
 	});
 });
