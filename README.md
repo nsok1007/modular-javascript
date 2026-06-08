@@ -114,20 +114,25 @@ This collection of coding exercises focuses on JavaScript, Node and NPM modules,
 
 ### 2 - Modules
 
-| Topics               | Code                                                                | Videos                               |    Length |
-| -------------------- | ------------------------------------------------------------------- | ------------------------------------ | --------: |
-| CommonJS Modules     | [commonjs-modules](/tutorials/02-modules/commonjs-modules/)         | [Demo](https://youtu.be/xndm5n2I3Zo) |      5:00 |
-| ES Modules           | [es-modules](/tutorials/02-modules/es-modules/)                     | [Demo](https://youtu.be/ha5IfG_7fMg) |      6:22 |
-| Node Core Modules    | [node-core-modules](/tutorials/02-modules/node-core-modules/)       | [Demo](https://youtu.be/4_YfWCyjra4) |      8:24 |
-| NPM Modules          | [npm-modules](/tutorials/02-modules/npm-modules/)                   | [Demo](https://youtu.be/tqndIv7gDiA) |     11:15 |
-| Modules with Classes | [modules-with-classes](/tutorials/02-modules/modules-with-classes/) | [Demo](https://youtu.be/wK2fw4cUuIs) |      7:15 |
-|                      |                                                                     | **TOTAL**                            | **38:16** |
+| Topics                     | Code                                                                | Videos                               |    Length |
+| -------------------------- | ------------------------------------------------------------------- | ------------------------------------ | --------: |
+| CommonJS Modules           | [commonjs-modules](/tutorials/02-modules/commonjs-modules/)         | [Demo](https://youtu.be/xndm5n2I3Zo) |      5:00 |
+| ES Modules                 | [es-modules](/tutorials/02-modules/es-modules/)                     | [Demo](https://youtu.be/ha5IfG_7fMg) |      6:22 |
+| Node Core Modules          | [node-core-modules](/tutorials/02-modules/node-core-modules/)       | [Demo](https://youtu.be/4_YfWCyjra4) |      8:24 |
+| NPM Modules                | [npm-modules](/tutorials/02-modules/npm-modules/)                   | [Demo](https://youtu.be/tqndIv7gDiA) |     11:15 |
+| Using Modules with Classes | [modules-with-classes](/tutorials/02-modules/modules-with-classes/) | [Demo](https://youtu.be/wK2fw4cUuIs) |      7:15 |
+|                            |                                                                     | **TOTAL**                            | **38:16** |
 
 ---
 
 ### 3 - Unit Testing
 
-_Coming soon!_
+| Topics                        | Code                                                                     | Videos                               | Length |
+| ----------------------------- | ------------------------------------------------------------------------ | ------------------------------------ | -----: |
+| Unit Testing Basics           | [unit-testing-basics](/tutorials/03-unit-testing/unit-testing-basics/)   | [Demo](https://youtu.be/Z0ZuJjGGGEU) |  12:22 |
+| Test-Driven Development (TDD) | [tdd](/tutorials/03-unit-testing/tdd/)                                   | [Demo](https://youtu.be/-cmDJPbSS6U) |   8:20 |
+| Designing Unit Tests          | [designing-unit-tests](/tutorials/03-unit-testing/designing-unit-tests/) | _Coming soon!_                       |        |
+|                               |                                                                          | **TOTAL**                            |        |
 
 ---
 
