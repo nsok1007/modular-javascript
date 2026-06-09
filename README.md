@@ -80,7 +80,7 @@ Use the command `git remote -v` to verify that you have linked to both `origin` 
 
 If you are unfamiliar with the basics of JavaScript, I recommend starting with my [JavaScript Fundamentals Series](https://github.com/CodeWithCarrie/javascript-fundamentals) before continuing below.
 
-Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel, and most topics will include hands-on practice exercises as well. Use the links in the tables below for quick peeks at the code. You can fork your own copy of this repository for practice on your local machine. While individual links are available below for each video, you can also start with the [full playlist](). <!-- FIXME -->
+Each topic will have at least one set of starter code and solution code corresponding to a video on the [@CodeWithCarrie](https://youtube.com/@CodeWithCarrie) YouTube channel, and most topics will include hands-on practice exercises as well. Use the links in the tables below for quick peeks at the code. You can fork your own copy of this repository for practice on your local machine. While individual links are available below for each video, you can also start with the [full playlist](https://www.youtube.com/playlist?list=PLvcPeTeqi37QLGNd9Ix5qO3wTGJtNggpy).
 
 > [!TIP]
 > I recommend working through the demos and exercises in the sequence shown below.
