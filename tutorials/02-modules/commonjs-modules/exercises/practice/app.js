@@ -14,5 +14,12 @@
     in the log statements with the correct references.
 */
 
-console.log(`Welcome to ${null}!`);
-console.log(`Maximum allowed team size: ${null} players.`);
+const dataBundle = require("./settings.js");
+
+console.log(`Welcome to ${dataBundle.gameTitle}!`);
+console.log(`Maximum allowed team size: ${dataBundle.maxPartySize} players.`);
+
+/* OUTPUT:
+Welcome to Retro Arcade Realms!
+Maximum allowed team size: 4 players.
+*/
