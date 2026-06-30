@@ -4,9 +4,12 @@
 
 import { generateStarterKit } from "../armory.js";
 
-test.todo("generateStarterKit creates a complete physical gear list");
-// TODO: Create a new kit for testing
+test("generateStarterKit creates a complete physical gear list", () => {
+    const starterKit = generateStarterKit();
 
-// TODO: Use the correct matcher for a deep equality comparison
+    expect(starterKit).toEqual(["Iron Sword", "Steel Shield", "Health Potion"]);
+    expect(starterKit).not.toBe(["Iron Sword", "Steel Shield", "Health Potion"]);
 
-// TODO: Use the correct matcher for a partial check
+    expect(starterKit).toContain("Steel Shield");
+
+});
