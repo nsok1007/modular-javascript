@@ -3,5 +3,10 @@
 // DEMO: Refactor the code to handle edge cases and make the second test pass
 
 export function checkLevelUp(character, targetXP) {
-	return null;
+	if (character.xp >= targetXP) {
+		character.xp -= targetXP; //subtract experience points spent
+		character.level += 1; //level character up by 1
+		return true;
+	}
+	return false;
 }
