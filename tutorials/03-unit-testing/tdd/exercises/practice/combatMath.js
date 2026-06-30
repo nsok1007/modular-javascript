@@ -3,5 +3,6 @@
     below to make it PASS (GREEN).
 */
 export function reduceDamage(rawDamage, armorValue) {
-	return null;
+    let armor = armorValue - rawDamage;
+	return true;
 }
