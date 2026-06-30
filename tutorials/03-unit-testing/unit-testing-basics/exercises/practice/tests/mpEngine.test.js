@@ -16,4 +16,24 @@ import { regenerateMP } from "../mpEngine.js";
 */
 
 // Don't forget to remove the .todo before passing in the second argument
-test.todo("regenerateMP adds points correctly and respects maxMP");
+test("regenerateMP adds points correctly and respects maxMP", () => {
+    let actual = regenerateMP(45,15);
+    let expected = 60;
+
+    expect(actual).toBe(expected);
+
+    expect(regenerateMP(45,15)).toBe(60);
+});
+
+test("regenerateMP adds points correctly and respects maxMP", () => {
+    let totalMP = regenerateMP(90,20);
+    let maxMP = 100;
+
+    expect(totalMP).toBe(maxMP);
+    expect(regenerateMP(90,20)).toBe(100);
+
+    //total magicPower = 90MP + 20regenAmount
+    //return total magicPower > 100MP? maxMP: 100;
+});
+
+// console.log(regenerateMP(90,20));
