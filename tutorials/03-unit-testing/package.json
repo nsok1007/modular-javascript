@@ -10,12 +10,12 @@
 	"author": "",
 	"license": "ISC",
 	"type": "module",
-	"dependencies": {
-		"jest": "^30.4.2"
-	},
 	"jest": {
 		"testPathIgnorePatterns": [
 			"/solutions/"
 		]
+	},
+	"devDependencies": {
+		"jest": "^30.4.2"
 	}
 }
