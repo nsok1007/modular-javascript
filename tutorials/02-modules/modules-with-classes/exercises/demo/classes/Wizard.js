@@ -2,7 +2,7 @@
 import { getRandominRange } from "../utils/mathUtils.js";
 
 // Export the class blueprint directly
-export default class Wizard {
+export default class Wizard { //files that hold single classes should always be named the CLassName using PascalCase; default means values don't need to be destructured from an object
 	constructor(name) {
 		this.name = name;
 		this.magicPoints = 50;

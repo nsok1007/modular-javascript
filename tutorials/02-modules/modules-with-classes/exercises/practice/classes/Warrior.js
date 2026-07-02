@@ -1,7 +1,7 @@
 /*
     TODO: Make this Warrior class blueprint available to other files.
 */
-class Warrior {
+export default class Warrior { //default is NOT optional in this case
 	constructor(name) {
 		this.name = name;
 		this.stance = "Defensive";
